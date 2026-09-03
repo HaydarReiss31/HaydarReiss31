@@ -37,9 +37,9 @@
 
 ## 🌐 Connect with me
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/HaydarReiss31?style=social)](https://twitter.com/HaydarReiss31) 
+[![Tiktok Follow](https://img.shields.io/twitter/follow/HaydarReiss31?style=social)](https://tiktok.com@bin.sh) 
 [![GitHub followers](https://img.shields.io/github/followers/HaydarReiss31.svg?label=Follow%20@HaydarReiss31&style=social)](https://github.com/HaydarReiss31/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tbulbul88@duck.com)
 
 ---
 
