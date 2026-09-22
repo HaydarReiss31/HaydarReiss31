@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm HaydarReiss31 👋</h1>
+<h1 align="center">HaydarReiss31</h1>
 <h3 align="center">The guy who breaks iOS open, peeks inside, then says "I'll fix it later" 🔓</h3>
 
 <p align="center">
