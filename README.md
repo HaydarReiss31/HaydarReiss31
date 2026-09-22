@@ -1,81 +1,78 @@
-# HaydarReiss31
+<h1 align="center">Hey, I'm Haydar 👋</h1>
+<h3 align="center">The guy who breaks iOS open, peeks inside, then says "I'll fix it later" 🔓</h3>
 
-<p align='center'><img src="https://theabbie.github.io/files/logo.png" alt="TheAbbie" width="100" height="100"></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Jailbreaking-critical?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mood-Works%20but%20don't%20trust%20it-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Devices%20Bricked-Ask%20my%20fastboot%20history-lightgrey?style=for-the-badge" />
+</p>
 
-[![pgp](https://img.shields.io/badge/pgp-0xF83424824B3E4B90-313131?style=flat&labelColor=313131&color=313131)](https://github.com/theabbie.gpg)
+---
 
-* [About Me](#about-me)
-* [My Octocat](#my-octocat)
-* [Tasks](#tasks)
-* [Donate](#donate)
+### 🧟‍♂️ About Me
+- 📱 **iOS Developer** / **Jailbreak Enthusiast** / **Tweak Developer**
+- 🍎 Writing tweaks for rootless jailbreaks with Logos & Theos, building ADB modules
+- 🐛 Firm believer in "it's not a bug, it's a feature"
+- 🧠 Motto: *boot first, think later*
 
-## About Me
+---
 
-Hello World, I am Abhishek Choudhary
+### 🚀 Featured Projects
+| Project | Description | Status |
+|---|---|---|
+| [CCAster-iOS-15-Fixed](https://github.com/HaydarReiss31/CCAster-iOS-15-Fixed) | iOS 18-inspired Control Center for rootless iOS 15 | ✅ Works (mostly) |
+| [sysinfo-shevery-adbmodule](https://github.com/HaydarReiss31/sysinfo-shevery-adbmodule) | System info module for Shevery & Nightzuku | 📊 13 stars, proud of it |
+| [repo](https://github.com/HaydarReiss31/repo) | Jailbreak tweak repository | 📦 Won't explode on click, promise |
+| [NoLabelsX](https://github.com/HaydarReiss31/NoLabelsX) | Logos-based tweak | 🏷️ Removes labels, not problems |
 
-A pseudo-introvert, a web developer, and a Maker
+---
 
-https://theabbie.github.io
+### 🛠️ Tech Stack (My Weapons)
+<p align="center">
+  <img src="https://img.shields.io/badge/Logos-FF6B6B?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Theos-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Objective--C-4B8BBE?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34C26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/ADB-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+</p>
 
-[Resume](https://theabbie.github.io/resume.pdf)
+---
 
-[Leetcode](https://leetcode.com/theabbie)
-
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-1526-9128" href="https://orcid.org/0000-0003-1526-9128" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-1526-9128</a></div>
-
-[![CodeTrace](https://img.shields.io/badge/CodeTrace-Profile-313131)](https://codetrace.com/users/theabbie)
-
-[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?logo=hackthebox&logoColor=111)](https://app.hackthebox.com/profile/370240)
-
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=theabbie&theme=github_dark" alt="TheAbbie's github stats" />
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theabbie&theme=github_dark" alt="TheAbbie's top languages" />
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theabbie&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theabbie&theme=github_dark)
-
-<table>
-<thead>
-<tr>
-<th colspan="2">Quick Info</th>
-</tr>
-</thead>
-<tbody>
-<tr><th scope='row'>Name</th><td>Abhishek Choudhary</td></tr>
-<tr><th scope='row'>Born</th><td><time datetime="2002-01-11 08:00">11 January, 2002</time></td></tr>
-<tr><th scope='row'>Education</th><td>B.E.</td></tr>
-<tr><th scope='row'>Alma mater</th><td>Fr. C. Rodrigues Institute of Technology</td></tr>
-<tr><th scope='row'>Nationality</th><td>Indian</td></tr>
-<tr><th scope='row'>Location</th><td>Navi Mumbai, Maharashtra, India</td></tr>
-<tr><th scope='row'>Occupation</th><td>Member of Technical Staff at athenahealth</td></tr>
-<tr><th scope='row'>Experience</th><td>4 years</td></tr>
-<tr><th scope='row'>Skills</th><td>JavaScript, Node.js, Java, Spring Boot, Jest, LangChain4j, AI/LLM workflows, SEO</td></tr>
-</tbody>
-</table>
-
-## my octocat
-
-<img src="https://theabbie.github.io/files/octocat.png" alt="TheAbbie" width="200" height="200">
-
-## tasks
-
+### ✅ Life Tasks
 - [x] Born
-- [x] Got a job
-- [x] Find life partner
-- [ ] Married
+- [ ] Get a job
+- [ ] Find life partner
+- [ ] Get married
 - [ ] Have children
 - [ ] Die
 
-## donate
+---
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K31DJFA)
+### 🎖️ Badge Collection (just for laughs)
+<p align="center">
+  <img src="https://img.shields.io/badge/Uptime-However%20long%20the%20device%20survives-success" />
+  <img src="https://img.shields.io/badge/Warranty-Already%20void-inactive" />
+  <img src="https://img.shields.io/badge/SafeMode-Standing%20by-blueviolet" />
+  <img src="https://img.shields.io/badge/Respring%20Count-Infinite-orange" />
+  <img src="https://img.shields.io/badge/Mom's%20Question-%22Why%20does%20your%20phone%20look%20like%20that%3F%22-red" />
+</p>
 
-[![Patreon](https://img.shields.io/badge/Patreon-Support-f96854?logo=patreon&logoColor=white)](https://patreon.com/theabbie)
+---
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/theabbie)
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HaydarReiss31&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaydarReiss31&layout=compact&theme=dark" />
+</p>
 
-[![Donor Box](https://img.shields.io/badge/Donorbox-Donate-2d81c5?logo=donorbox&logoColor=white)](https://donorbox.org/theabbie)
+---
 
-[![Donate on opencollective](https://opencollective.com/theabbie/donate/button@2x.png?color=blue)](https://opencollective.com/theabbie/donate)
+### 🌐 Find Me
+<p align="center">
+  <a href="https://www.tiktok.com/@bin.sh"><img src="https://img.shields.io/badge/TikTok-@bin.sh-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+  <a href="mailto:tbulbul88@duck.com"><img src="https://img.shields.io/badge/Email-Say%20hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
+<p align="center"><i>Thanks for visiting — back up your device before you touch anything 😄</i></p>
 <!-- [![Donate](https://button.flattr.com/button-compact-static-100x17.png)](https://flattr.com/@theabbie) -->
